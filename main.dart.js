@@ -52056,7 +52056,7 @@ p=b.O(p).f
 s=C.wz.h(0,200)
 s.toString
 p=S.pn(o.a.b*0.25,p.a.a*0.25)
-return new G.p2(new S.hf(s,new X.ym(new L.pd("images/profile3.png"),C.o0,C.h9,0.1),r,r,r,r,C.nX,C.bh),p,C.bP,q,r,r)}}
+return new G.p2(new S.hf(s,new X.ym(new L.pd("assets/images/profile3.png"),C.o0,C.h9,0.1),r,r,r,r,C.nX,C.bh),p,C.bP,q,r,r)}}
 N.q9.prototype={
 N:function(a,b){var s,r=null,q="Akhil Menon \xa92021",p=t.w,o=b.O(p).f,n=C.S.aI(127.5),m=t.Y
 o=T.nf(H.c([new N.uC(r),L.d8(q,A.ej(r,r,P.aL(n,169,139,152),r,r,r,r,r,r,r,r,o.a.b*0.015,r,C.x,r,r,!0,r,r,r,r,r,r),r)],m),C.b0,C.hX,r)
